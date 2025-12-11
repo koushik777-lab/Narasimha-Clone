@@ -1,0 +1,112 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Inter",
+      "role": "body"
+    },
+    {
+      "family": "DM Sans",
+      "role": "body"
+    },
+    {
+      "family": "Outfit",
+      "role": "body"
+    }
+  ],
+  "colors": {
+    "primary": "#31A050",
+    "accent": "#727586",
+    "background": "#1D1E20",
+    "textPrimary": "#1D1E20",
+    "link": "#727586"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Inter",
+      "heading": "Inter"
+    },
+    "fontStacks": {
+      "heading": [
+        "Outfit",
+        "sans-serif"
+      ],
+      "body": [
+        "DM Sans",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Inter",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "64px",
+      "h2": "64px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "5px"
+  },
+  "components": {
+    "input": {
+      "borderColor": "#CCCCCC",
+      "borderRadius": "5px"
+    },
+    "buttonPrimary": {
+      "background": "#31A050",
+      "textColor": "#FFFFFF",
+      "borderRadius": "50px",
+      "shadow": "none"
+    },
+    "buttonSecondary": {
+      "background": "#FFFFFF",
+      "textColor": "#0D141A",
+      "borderColor": "#000000",
+      "borderRadius": "999px",
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "File saved at: attached_assets/logo.png",
+    "favicon": "File saved at: attached_assets/favicon.bin",
+    "ogImage": null
+  },
+  "__framework_hints": [
+    "Hostinger Website Builder"
+  ],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "The logo in the header matches the brand name 'Narasima Groups' and is visible, making it the main brand logo.",
+    "confidence": 0.98
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 0,
+      "text": "Submit Your Inquiry",
+      "reasoning": "Button #0 has a vibrant green background (#31A050), which is the brand color, and action-oriented text 'Submit Your Inquiry'. This makes it the primary call-to-action button."
+    },
+    "secondary": {
+      "index": 1,
+      "text": "Explore",
+      "reasoning": "Button #1 has a white background (#FFFFFF), which is distinctly different from the primary button's color. It serves as a less prominent action with the text 'Explore', making it suitable as the secondary button."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "professional",
+    "energy": "medium",
+    "targetAudience": "business clients and partners"
+  },
+  "designSystem": {
+    "framework": "custom",
+    "componentLibrary": null
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  }
+}

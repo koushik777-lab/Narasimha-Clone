@@ -1,0 +1,111 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Inter",
+      "role": "body"
+    },
+    {
+      "family": "DM Sans",
+      "role": "body"
+    },
+    {
+      "family": "Outfit",
+      "role": "body"
+    }
+  ],
+  "colors": {
+    "primary": "#727586",
+    "accent": "#357DF9",
+    "background": "#1D1E20",
+    "textPrimary": "#1D1E20",
+    "link": "#357DF9"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Inter",
+      "heading": "Inter"
+    },
+    "fontStacks": {
+      "heading": [
+        "Outfit",
+        "sans-serif"
+      ],
+      "body": [
+        "DM Sans",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Inter",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "64px",
+      "h2": "64px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "5px"
+  },
+  "components": {
+    "input": {
+      "borderColor": "#CCCCCC",
+      "borderRadius": "5px"
+    },
+    "buttonPrimary": {
+      "background": "#31A050",
+      "textColor": "#FFFFFF",
+      "borderRadius": "50px",
+      "shadow": "none"
+    },
+    "buttonSecondary": {
+      "background": "#176BE0",
+      "textColor": "#FFFFFF",
+      "borderRadius": "50px",
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "File saved at: attached_assets/logo.png",
+    "favicon": "File saved at: attached_assets/favicon.bin",
+    "ogImage": null
+  },
+  "__framework_hints": [
+    "Hostinger Website Builder"
+  ],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "The logo candidate matches the brand name 'Narasima Groups' and is located in the header, linking to the homepage, making it the primary brand logo.",
+    "confidence": 0.98
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 0,
+      "text": "Submit Your Inquiry",
+      "reasoning": "Button #0 has a vibrant green background (#31A050) which is typically associated with primary calls to action. The text 'Submit Your Inquiry' is action-oriented, making it a strong candidate for the primary CTA."
+    },
+    "secondary": {
+      "index": 1,
+      "text": "Submit",
+      "reasoning": "Button #1 has a vibrant blue background (#176BE0), which is different from the primary button's green. Although it is also a vibrant color, it serves as a secondary action due to its less prominent text 'Submit', which is less action-oriented than the primary button's text."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "professional",
+    "energy": "medium",
+    "targetAudience": "business clients and consumers"
+  },
+  "designSystem": {
+    "framework": "custom",
+    "componentLibrary": null
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  }
+}
