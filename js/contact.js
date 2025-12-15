@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Add auto-response message
                 data._autoresponse = "Thank you for your enquiry. Our team will connect with you very soon..";
 
-                const response = await fetch("https://formsubmit.co/ajax/abirmoja743@gmail.com", {
+                const response = await fetch("https://formsubmit.co/ajax/Pramodshetti22@gmail.com", {
                     method: "POST",
                     headers: {
                         'Content-Type': 'application/json',
